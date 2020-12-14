@@ -17,7 +17,7 @@ The following hardware is required for this project
 - 2mm Nails
 - 8mm extension springs (Bunnings, model TBA)
 - M5 or 3/16" threaded rod and appropriate nuts (if you want the front rail section)
-- 1-1/2x1-3/8" or 40x36mm Polycarbonate or Acrylic tube (Different files for both versions, unsure which to use as both can be found here)
+- 1-1/2x1-3/8" Polycarbonate tube. This was not modified to 40x36mm for compatibility with commercially available plungers/rams (FLF, Worker, CS, etc). modified files for 40x36 coming later.
 - 35x30x2.5mm Nitrile O-rings
 - Silicone Grease
 
