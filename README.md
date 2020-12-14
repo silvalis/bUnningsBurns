@@ -9,6 +9,7 @@ The whole purpose of this project is to eliminate hard to acquire hardware for t
 
 The following hardware is required for this project
 - Aluminium channel 16x12x1.6mm (Bunnings, Action Aluminium, Ullrich, etc)
+- Aluminium flat bar 12x3mm ~2x300mm bars
 - M3x6mm Standoffs (RS, Element14, Ebay)
 - M3x8mm Button Head Screw (Any good hardware shop)
 - M3x8mm Countersunk Screws
