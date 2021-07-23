@@ -27,7 +27,7 @@ Nerf blaster specific hardware from BlasterTech (Or similar shop)
 - 8kg, 16.5kg Longshot Spring (Note, LS springs will likely require the v3 Plunger and may not have correct length for v4 plungers)
 - OR typical Talon Claw springs K25, K26, 788, K14, etc
 - BT27 endcap coming soon
-- Worker Caliburn Vanguard Ram
+- Worker Caliburn Vanguard Ram ( Grind two parallel sides flat near the front of the pusher (approx 10mm), in line with the narrow section. to allow he mag lips to pass over the ram)
 - Worker Talon Magazine recommended
 - AF Pro Short Darts recommended
 
